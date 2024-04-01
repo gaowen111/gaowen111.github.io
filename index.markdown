@@ -33,7 +33,7 @@ As the plot unfolds, we are introduced to "Echoes of Seasons," a chart that reve
 
 Another pivotal figure in our narrative is the dynamic map visualization, a tool that artfully captures the shifting landscapes of crime distribution over time. Like frames from a film, these animations guide observers through the evolving storyline of crime hotspots and trends, unveiling the unique challenges that the Northeast faces in stark contrast to other regions.
 
-![Map Image](/img/mapgif.gif)
+![Map Image](./img/mapgif.gif)
 
 
 This visualization, with its ability to chronicle changes in crime patterns through the lens of animated yearly frames, empowers observers to trace the ebb and flow of criminal activity with unparalleled clarity. Remarkably, the story told through these frames maintains a consistent thread across the years, with 2018 standing out as an aberration. This deviation is underscored by the absence of a full year's data for 2018, leaving us in suspense as to whether this represents a true drop in crime rates or merely a gap in our collective narrative.
