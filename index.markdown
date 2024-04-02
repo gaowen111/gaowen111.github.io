@@ -104,6 +104,11 @@ We can also see that due to the focus of police has been the violent crimes espe
     <td style="text-align:left;">Wen Gao</td>
     <td style="text-align:left;">Yuming Zhang, Zheng Dong</td>
   </tr>
+    <tr>
+    <td style="text-align:left;">Intro and conclusion</td>
+    <td style="text-align:left;">Zheng Dong</td>
+    <td style="text-align:left;">Wen Gao, Yuming Zhang</td>
+  </tr>
 </table>
 
 <table align="left">
