@@ -8,7 +8,7 @@ title: Home
 
 # Introduction
 
-In the city of San Francisco, a story of resilience and strategy unfolds against the backdrop of urban crime. This tale, rooted in data and analysis, begins with a deep dive into the city's top 10 crime categories, illuminating the complex landscape of safety and security. The aim is to help the police to understand how they can reduce the crimes better by understanding for example when to add patrols and the crime trend throughout tens of years, hence shaping the narrative of urban safety.
+In the city of San Francisco, a story of resilience and strategy unfolds against the backdrop of urban crime. This tale, rooted in data and analysis, begins with a deep dive into the city's top 10 crime categories, illuminating the complex landscape of safety and security. The aim is to help the police to understand how they can reduce the crimes better by understanding for example when to add patrols and the crime trend throughout years, hence shaping the narrative of urban safety.
 
 We chosed to only use top 10 crime categories as we think it should be the first focus, once the top 10 crime amount has been reduced and issue been solved, we can focus more on the rest of the smaller categories. From the visualization perspective, human brains' focus on the dashboard is limited, and we would like to avoid people loosing the attention to the most important part. Also it will be hard and tired for human to read, if it is more than 10 colors on the visualizations to indicate different categories.
 
@@ -21,11 +21,11 @@ By tackling these prevalent crimes, the city paves the way for a broader, more c
 ## Echoes of Seasons: Unveiling the Pulse of Urban Crimes
 
 
-Visual representation plays a crucial role in this story, tailored to human cognitive limits to emphasize crucial data. The line chart not only makes the data accessible but also highlights the pivotal issues at the center of San Francisco's battle against crime. Here we would like to show and find out if there is a peak or low season for the crimes among the years.
+Visualization plays a crucial role in this story, tailored to human cognitive limits to emphasize crucial data. The line chart not only makes the data accessible but also highlights the pivotal issues at the center of San Francisco's battle against crime. Here we would like to show and find out if there is a peak or low season for the crimes among the years.
 
 ![Crime Counts by Month for All Top 10 Crime Categories](./img/timeseries.png)
 
-As the plot unfolds, we are introduced to "Echoes of Seasons," a chart that reveals the rhythmic patterns of urban delinquency. The fluctuations of crime rates, particularly the spike in thefts during summer and winter, hint at the interconnectedness of societal elements and crime. This seasonal rhythm serves as a reminder of the city's need to adapt its strategies in response to changing patterns.  Concurrently, the erratic fluctuations of drug/narcotics offenses and warrant cases mirror the intricate challenges law enforcement faces. A mid-year surge in burglaries serves as a reminder that preventative measures should evolve in step with seasonal shifts. Far from being mere statistics, these visual data narratives serve as a clarion call for the city's protectors to dynamically fine-tune their strategies.
+As the plot unfolds, we are introduced to "Echoes of Seasons", a chart that reveals the rhythmic patterns of urban delinquency. The fluctuations of crime rates, particularly the spike in thefts during summer and winter, hint at the interconnectedness of societal elements and crime. This seasonal rhythm serves as a reminder of the city's need to adapt its strategies in response to changing patterns.  Concurrently, the erratic fluctuations of drug/narcotics offenses and warrant cases mirror the intricate challenges law enforcement faces. A mid-year surge in burglaries serves as a reminder that preventative measures should evolve in step with seasonal shifts. Far from being mere statistics, these visual data narratives serve as a clarion call for the city's protectors to dynamically fine-tune their strategies.
 <br>
 <br>
 
@@ -44,7 +44,7 @@ This visualization, with its ability to chronicle changes in crime patterns thro
 ## Crime frequency by Category and Day of Week
 The story deepens with an analysis of crime frequency by category and day of the week, offering insights into the frequency of different types of crimes on each day of the week for the police. It reveals if certain crimes are more common on specific days. The filter by year shows the analysis of trends over time and shows if certain crimes are becoming more or less frequent. So that the police will know how to plan the schedule of the patrols better to reduce certain crimes.
 <br>
-You can click and play with the filter of Year to see the difference.
+_You can click and play with the filter of Year to see the difference._
 
 
 {% include periodic.html %}
@@ -62,6 +62,8 @@ The conclusion of our story is not an end but a reflection on the journey of und
 We can also see that due to the focus of police has been the violent crimes especially with guns, the rest categories of crimes have been increasing, and our page has concluded a few patterns for the police to refer to, so that the police can efficiently plan strategically both short-term and long-term. However due to the limitation of the length, there are actually a lot more perspectives can be valuable as well.
 
 <!-- Later in the document, or at the bottom: -->
+<br>
+<br>
 
 ---
 **Reference**
@@ -70,3 +72,55 @@ We can also see that due to the focus of police has been the violent crimes espe
     SFPD Releases 2017 Year-End Crime Statistics: <a href="https://www.sanfranciscopolice.org/news/sfpd-releases-2017-year-end-crime-statistics-18-032" target="_blank" rel="noopener noreferrer">https://www.sanfranciscopolice.org/news/sfpd-releases-2017-year-end-crime-statistics-18-032</a> <a href="#fnref1" title="Return to article">↩</a>
   </li>
 </ol>
+
+<br>
+<br>
+
+---
+**Contributions**
+<table align="left">
+  <tr>
+    <th style="text-align:left;">Assignment Part</th>
+    <th style="text-align:left;">Develop</th>
+    <th style="text-align:left;">Review</th>
+  </tr>
+  <tr>
+    <td style="text-align:left;">Webpage framework</td>
+    <td style="text-align:left;">Wen Gao, Yuming Zhang</td>
+    <td style="text-align:left;">Zheng Dong</td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">Visualization time series/bar chart</td>
+    <td style="text-align:left;">Yuming Zhang</td>
+    <td style="text-align:left;">Zheng Dong, Wen Gao</td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">Visualization Map</td>
+    <td style="text-align:left;">Zheng Dong</td>
+    <td style="text-align:left;">Wen Gao, Yuming Zhang</td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">Visualization Interactive</td>
+    <td style="text-align:left;">Wen Gao</td>
+    <td style="text-align:left;">Yuming Zhang, Zheng Dong</td>
+  </tr>
+</table>
+
+<table align="left">
+  <tr>
+    <th style="text-align:left;">Student Name</th>
+    <th style="text-align:left;">Student Number</th>
+  </tr>
+  <tr>
+    <td style="text-align:left;">Wen Gao</td>
+    <td style="text-align:left;">s233366</td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">Yuming Zhang</td>
+    <td style="text-align:left;">s232252</td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">Zheng Dong</td>
+    <td style="text-align:left;">s232281</td>
+  </tr>
+</table>
