@@ -18,12 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 02806 Assignment2 Group 35
+title: Can we make a difference in reducing traffic crashes and saving lives in San Francisco?
 description: >- # this means to ignore newlines until "baseurl:"
-  This site is built for course 02806 by group 35 in 2024 to show how the police can have
-  a better control over the crimes in San Francisco.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://gaowen111.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: "https:gaowen111.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
